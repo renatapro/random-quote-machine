@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	background-color: lightblue;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+.box {
+	margin: 50px 0;
+}
+
+button {
+	width: 30%;
+	height: 40px;
+	color: white;
+	background-color: lightblue;
+	border: 1px solid white;
+	font-size: 20px;
+	display: block;
+	margin: auto;
+	padding: 0;
+	margin-bottom: 20px;
+	cursor: pointer;
+	outline: none;
+}
+
+a {
+	width: 30%;
+	height: 40px;
+	color: white;
+	background-color: lightblue;
+	border: 1px solid white;
+	font-size: 20px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.tweet {
+	color: white;
+}
