@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Aclonica|Poppins");
+.button, .trigger, a {
+  color: #fff;
+  background-color: #7f8c8d;
+  border: 1px solid #fff;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5%; }
+
+body {
+  margin: 0;
+  background-color: #7f8c8d;
+  max-width: 1600px;
+  font-family: "Poppins", sans-serif; }
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 35px;
+  text-transform: uppercase; }
+
+.quote {
+  text-align: center;
+  font-size: 45px;
+  padding: 30px;
+  color: #fff;
+  font-family: "Aclonica", sans-serif; }
+
+.author {
+  font-size: 15px;
+  padding: 10px;
+  text-align: right;
+  margin-right: 10%;
+  color: #fff; }
+
+div {
+  text-align: center; }
+
+.trigger {
+  width: 150px;
+  height: 50px;
+  outline: none; }
+
+.fa-twitter {
+  font-size: 35px;
+  color: #fff; }
+
+a {
+  padding: 10px;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
